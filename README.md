@@ -1,9 +1,5 @@
-# ‌‌ [![LOGO][logo-image]][logo-url] React Most Wanted
+# ‌‌ StarSight
 
-[![Build Status][travis-image]][travis-url]
-[![Dependency Status][daviddm-image]][daviddm-url]
-[![License][license-image]][license-url]
-[![Code Style][code-style-image]][code-style-url]
 
 I like `short` README's so here we go :sunglasses:
 
@@ -12,14 +8,14 @@ I like `short` README's so here we go :sunglasses:
 Just run this command:
 
 ```js
-npx create-react-app test-app --scripts-version rmw-react-scripts
+npm start
 ```
 
-## I rather checkout the DEMO first. Where is it?
+## This project was initiated wiht RMW. Wanna Learn More? Check out the demo
 
 Here you go [DEMO](https://www.react-most-wanted.com). The DEMO is just a DEMO. It has no real purpose "to do" some usefull stuff. Just to show you what your project could look like.
 
-## What is this?
+## Why start with React Most Wanted?
 
 React Most Wanted is a react Starter Kit based on [Create React App](https://github.com/facebookincubator/create-react-app) and [Material-UI](https://material-ui.com/) that uses [Firebase](https://firebase.google.com/).
 
@@ -98,21 +94,4 @@ Thanks to @SiradDev for creating the logo for this project :smile:
 
 ## License
 
-MIT
-
-[logo-image]: https://www.react-most-wanted.com/favicon-32x32.png
-[logo-url]: https://github.com/TarikHuber/react-most-wanted/blob/master/README.md
-[travis-image]: https://travis-ci.org/TarikHuber/react-most-wanted.svg?branch=master
-[travis-url]: https://travis-ci.org/TarikHuber/react-most-wanted
-[daviddm-image]: https://img.shields.io/david/TarikHuber/react-most-wanted.svg?style=flat-square
-[daviddm-url]: https://david-dm.org/TarikHuber/react-most-wanted
-[license-image]: https://img.shields.io/npm/l/express.svg
-[license-url]: https://github.com/TarikHuber/react-most-wanted/master/LICENSE
-[code-style-image]: https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat-square
-[code-style-url]: http://standardjs.com/
-
-## Support on Beerpay
-
-Hey dude! Help me out for a couple of :beers:!
-
-[![Beerpay](https://beerpay.io/TarikHuber/react-most-wanted/badge.svg?style=beer-square)](https://beerpay.io/TarikHuber/react-most-wanted) [![Beerpay](https://beerpay.io/TarikHuber/react-most-wanted/make-wish.svg?style=flat-square)](https://beerpay.io/TarikHuber/react-most-wanted?focus=wish)
+TBDe
