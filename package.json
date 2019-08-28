@@ -17,6 +17,8 @@
     "chart.js": "^2.8.0",
     "downshift": "^3.2.12",
     "firebase": "^6.4.0",
+    "firebase-admin": "^8.3.0",
+    "firebase-functions": "^3.2.0",
     "firebaseui": "^4.1.0",
     "fireform": "^1.0.0",
     "firekit": "^1.0.30",
