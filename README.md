@@ -15,9 +15,9 @@ npm start
 
 Here you go [DEMO](https://www.react-most-wanted.com). The DEMO is just a DEMO. It has no real purpose "to do" some usefull stuff. Just to show you what your project could look like.
 
-## Why start with React Most Wanted?
+## Why start with Project Starsight?
 
-React Most Wanted is a react Starter Kit based on [Create React App](https://github.com/facebookincubator/create-react-app) and [Material-UI](https://material-ui.com/) that uses [Firebase](https://firebase.google.com/).
+Project Starsight is a react Starter Kit based on [Create React App](https://github.com/facebookincubator/create-react-app) and [Material-UI](https://material-ui.com/) that uses [Firebase](https://firebase.google.com/).
 
 ## Why shold I use it?
 
@@ -61,7 +61,7 @@ The informations you are seeking are skatered over some Medium articles writen b
 - [Firekit concepts to sync Firebase and redux](https://codeburst.io/firekit-concepts-to-sync-firebase-and-redux-606a1e3e50d6)
 - [Firebase and react Continuous Deployment](https://codeburst.io/firebase-and-react-continuous-deployment-2e6d81f0b6a1)
 - [Redux simple values](https://codeburst.io/redux-simple-values-7712694f311)
-- [React Most Wanted](https://medium.com/@tarikhuber/react-most-wanted-d4e916782c2e)
+- [Project Starsight](https://medium.com/@tarikhuber/react-most-wanted-d4e916782c2e)
 
 # How can I make it MY project?
 
