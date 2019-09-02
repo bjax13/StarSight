@@ -64,6 +64,9 @@ const styles = theme => ({
   },
   content: {
     height: '100%',
+    display: 'flex',
+    flexDirection: 'column',
+    alignItems: 'center',
     // paddingTop: theme.spacing(1) * 8,
     [theme.breakpoints.up('sm')]: {
       paddingTop: theme.spacing(1)
@@ -75,8 +78,6 @@ const styles = theme => ({
   logo: {
     color: 'red',
     margin: `${theme.spacing(1) * 3}px 0 ${theme.spacing(1) * 4}px`,
-    width: '100%',
-    height: '40vw',
     maxHeight: 250
   },
   steps: {
